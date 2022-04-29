@@ -2,6 +2,7 @@ import numpy as np # Scientific computing library
  
 # Project: Coding Denavit-Hartenberg Tables Using Python - 6DOF Robotic Arm
 #          This code excludes the servo motor that controls the gripper.
+
  
 # Link lengths in centimeters
 a1 = 1 # Length of link 1
